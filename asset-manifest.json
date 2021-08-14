@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/course-management-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/course-management-app/static/js/main.5e4a7b9b.chunk.js",
+    "main.js.map": "/course-management-app/static/js/main.5e4a7b9b.chunk.js.map",
+    "runtime-main.js": "/course-management-app/static/js/runtime-main.c3cdf0d8.js",
+    "runtime-main.js.map": "/course-management-app/static/js/runtime-main.c3cdf0d8.js.map",
+    "static/js/2.77083d76.chunk.js": "/course-management-app/static/js/2.77083d76.chunk.js",
+    "static/js/2.77083d76.chunk.js.map": "/course-management-app/static/js/2.77083d76.chunk.js.map",
+    "static/js/3.12bb1624.chunk.js": "/course-management-app/static/js/3.12bb1624.chunk.js",
+    "static/js/3.12bb1624.chunk.js.map": "/course-management-app/static/js/3.12bb1624.chunk.js.map",
+    "index.html": "/course-management-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/course-management-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.77083d76.chunk.js.LICENSE.txt": "/course-management-app/static/js/2.77083d76.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/course-management-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3cdf0d8.js",
+    "static/js/2.77083d76.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5e4a7b9b.chunk.js"
+  ]
+}
