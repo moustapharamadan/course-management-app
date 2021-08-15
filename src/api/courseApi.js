@@ -1,5 +1,5 @@
-import { handleResponse, handleError } from "./apiUtils";
-const baseUrl = "http://localhost:3001/courses/";
+import { handleResponse, handleError, apiURL } from "./apiUtils";
+const baseUrl = apiURL + "courses/";
 
 export function getCourses() {
   return fetch(baseUrl).then(handleResponse).catch(handleError);

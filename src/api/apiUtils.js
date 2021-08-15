@@ -12,3 +12,8 @@ export function handleError(error) {
   console.error("API call failed. " + error);
   throw error;
 }
+
+export const apiURL =
+  process.env.NODE_ENV === "production"
+    ? "https://course-management-app-backend.herokuapp.com/"
+    : "http://localhost:3001/";
