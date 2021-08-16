@@ -20,4 +20,7 @@
 | redux            | Library for unidirectional data flows                |
 | redux-thunk      | Async redux library                                  |
 
-##
+## Demo
+
+JSON server used to mock API calls.<br>
+For demonstration purposes the JSON server has been deployed to <a href="https://course-management-app-backend.herokuapp.com/">Heroku</a> and the react app has been deployed to the <a href="https://moustapharamadan.github.io/course-management-app/#/"> GitHub Pages</a>
